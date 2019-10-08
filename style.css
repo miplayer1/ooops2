@@ -1,0 +1,50 @@
+#next {
+  position: fixed;
+  bottom: 0;
+  right: 45%;
+}
+.card {
+  min-height: 85vh;
+}
+
+.card-content p {
+  color: #fff;
+  font-size: 8vw;
+}
+h3 {
+  font-size: 20vw;
+  color: #fff;
+  font-weight: 900;
+}
+#number {
+  /* font-size: 14vw; */
+  font-weight: 600;
+}
+#gp-objectives {
+  font-size: 5vw;
+}
+#why {
+  position: fixed;
+  bottom: 0;
+  right: 45%;
+}
+#close {
+  position: fixed;
+  bottom: 15px;
+  right: 45%;
+}
+#refresh {
+  position: fixed;
+  bottom: 0;
+  left: 10px;
+}
+.header {
+  padding-top: 45vh;
+}
+.wrapper {
+  min-height: 100vh;
+}
+.btn {
+  margin: auto;
+  margin-bottom: 50px;
+}
